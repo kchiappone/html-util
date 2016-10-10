@@ -1,4 +1,4 @@
-package net.chiappone.util;
+package net.chiappone.util.html;
 
 /**
  * @author Kurtis Chiappone
