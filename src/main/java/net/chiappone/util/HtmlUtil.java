@@ -28,6 +28,7 @@ public class HtmlUtil {
 		html.append( "h2 { font: 16pt arial,helvetica,sans-serif; color: black; }" );
 		html.append( "h3 { font: 14pt arial,helvetica,sans-serif; color: black; }" );
 		html.append( "h4 { font: 12pt arial,helvetica,sans-serif; color: black; }" );
+	    	html.append( ".code { font-size: 8pt; font-family: Lucida Sans Typewriter, Lucida Typewriter, Courier New, Courier, monospace; font-weight: bold; margin-top: 15px; margin-left: 15px; white-space: pre; }" );
 		html.append( "</style>" );
 		return html.toString();
 
